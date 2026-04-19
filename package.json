@@ -1,0 +1,18 @@
+{
+  "name": "thaanh-portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Content-driven portfolio for thaanh.com. Drop files into /content/, push, the rest is automatic.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "clean": "rm -rf assets/content dist && echo cleaned"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.3",
+    "sharp": "^0.33.5"
+  }
+}
