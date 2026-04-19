@@ -1,0 +1,1 @@
+We tested an early-stage proof of concept, where we disassembled a VR headset and repurposed it by attaching a phone to display the Wake Up sequence simulation through various prototyping methods, including video animation. This approach allowed for quick validation testing using the smartphone as an effective tool.

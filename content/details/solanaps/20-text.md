@@ -1,0 +1,1 @@
+After user testing, adjustments were made to the product design as the users had difficulties changing light intensity via the app prototype. A knob was added to the case so that the user could adjust the light haptically.

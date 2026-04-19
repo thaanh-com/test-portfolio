@@ -1,0 +1,1 @@
+Our research showed that people prefer visual signals over audio ones for waking up. That is why our team came up with a design solution that replicates sunrise light. To optimise glaring reduction, we used a darker central spot within the gradient, which makes it more pleasant for the eye and optimises comfort.

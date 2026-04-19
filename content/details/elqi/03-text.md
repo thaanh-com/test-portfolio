@@ -1,0 +1,1 @@
+The app design is based on a strategy developed for a resource-strapped MVP. It relies on dominant, large numbers and titles rather than icons or visuals so that the app could be easily developed and tested.
